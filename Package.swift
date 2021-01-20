@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Dto",
     platforms: [
-        .iOS(.v9)
+        .iOS(.v12)
     ],
     products: [
         .library(
@@ -14,7 +14,7 @@ let package = Package(
             targets: ["Dto"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SvenTiigi/ValidatedPropertyKit.git", from: "0.0.4")
+        .package(url: "https://github.com/SvenTiigi/ValidatedPropertyKit.git", from: "0.0.5")
     ],
     targets: [
         .target(
