@@ -14,7 +14,7 @@ let package = Package(
             targets: ["Dto"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SvenTiigi/ValidatedPropertyKit.git", from: "0.0.5")
+        .package(url: "https://github.com/SvenTiigi/ValidatedPropertyKit.git", from: "0.0.4")
     ],
     targets: [
         .target(
