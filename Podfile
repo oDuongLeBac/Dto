@@ -5,5 +5,5 @@ target 'Dto' do
   use_frameworks!
 
   # Pods for Dto
-  pod 'ValidatedPropertyKit'
+  pod 'ValidatedPropertyKit', '0.0.4'
 end

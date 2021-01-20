@@ -2,7 +2,7 @@ PODS:
   - ValidatedPropertyKit (0.0.4)
 
 DEPENDENCIES:
-  - ValidatedPropertyKit
+  - ValidatedPropertyKit (= 0.0.4)
 
 SPEC REPOS:
   trunk:
@@ -11,6 +11,6 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   ValidatedPropertyKit: 599b32854be66b3eea55c0ad7aa22c52cba4b997
 
-PODFILE CHECKSUM: 22ae42ab1c42c7c9ae40ca5a509609f52ac5afd2
+PODFILE CHECKSUM: 67e91da8617fcad8f6526995f622f63233897170
 
 COCOAPODS: 1.10.0.rc.1
